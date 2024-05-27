@@ -10,7 +10,7 @@
 
 
 
-## Greetings, I'm Mojahid Sayad! 🧑‍💻
+## Greetings, I'm Pravin Pathade! 🧑‍💻
 
 #### 🎓 As a dedicated student immersed in the realm of Artificial Intelligence and Data Science, I'm on a quest to unravel the mysteries of intelligent systems and uncover the power of data.
 
